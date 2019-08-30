@@ -1,0 +1,52 @@
+body{
+      background: rgb(2,0,36);
+      background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,40,0.7413340336134453) 0%, rgba(0,212,255,1) 100%);
+}
+
+h1{            
+    font-family: "Arial";
+    font-size: 22px;
+    color: #ffffff;
+}
+
+p{            
+    font-family: "times Rew Roman"; 
+    font-size: 120%;
+    color: #000000;
+    opacity: 0.7;
+}
+
+.picopacity{
+    opacity: 0.7;
+}
+
+.picopacity:hover{
+    opacity: 1;
+    border-radius: 50%;
+}
+
+.buttonopacity{
+    opacity: 0.7
+}
+
+.buttonopacity:hover{
+    opacity: 1;
+}
+
+.textproperties{
+    background-color: #9CCFB8;
+    color: #0A4F30;
+    text-align: center;
+}
+
+.textpositionright{
+    text-align: right;
+}
+
+.border{
+ border-style:solid;
+ border-color:#287EC7;
+}
+
+
+
